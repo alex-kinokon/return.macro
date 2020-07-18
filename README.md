@@ -3,6 +3,8 @@
 ## Example
 
 ```js
+import _return from "return.macro"
+
 const value = getValue() ?? _return()
 const [left, right] = getValue() ?? _return(false)
 const { node } = getValue() ?? _return()
