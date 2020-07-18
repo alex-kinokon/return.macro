@@ -1,5 +1,9 @@
 # return.macro
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![dependency status](https://david-dm.org/proteriax/return.macro/status.svg)](https://david-dm.org/proteriax/return.macro#info=dependencies)
+[![npm version](https://badge.fury.io/js/return.macro.svg)](https://badge.fury.io/js/return.macro)
+
 ## Example
 
 ```js
