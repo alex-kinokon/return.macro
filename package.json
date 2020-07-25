@@ -1,11 +1,19 @@
 {
   "name": "return.macro",
   "author": "proteriax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "return.macro.js",
   "types": "return.macro.d.ts",
   "dependencies": {
     "babel-plugin-macros": "^2.8.0"
+  },
+  "prettier": {
+    "arrowParens": "avoid",
+    "tabWidth": 2,
+    "printWidth": 90,
+    "semi": false,
+    "singleQuote": false,
+    "trailingComma": "es5"
   }
 }
